@@ -1,0 +1,82 @@
+
+/* head sec */
+.banner-title{
+    width: 300px;
+height: 200px;
+font-family: 'Open Sans', sans-serif;
+padding: 0 0 0 150px;
+text-align: center;
+margin: auto auto 0 auto ;
+
+}
+.banner-contaner{
+    max-width: 500px;
+    display: flex;
+    align-items: center;
+    margin: 0 200px;
+    justify-content:space-between ;
+}
+header{
+    background-color: pink;
+}
+.head-div{
+    width: 500px;
+    padding: 0 200px 0 0;
+}
+button{
+    background-color: deeppink;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+.btn{
+    color: aliceblue;
+
+}
+/* main sec */
+section{
+    display: flex;
+}
+.flower-list{
+    max-width: 500px;
+    justify-content: space-between;
+    margin: 0 200px 0 200px;
+}.banner-title{
+    text-align: center;
+}
+p{
+    color: grey;
+    text-align: center;
+}
+.name{
+    display: flex;
+    justify-content: space-between;
+}
+.pic-one{
+    margin: 0 0 0 300px;
+}
+.pic-three{
+    margin: 0 400px 0 0 ;
+}#one{
+    background-color: skyblue;
+}
+#two{
+    background-color: aquamarine;
+}
+#three{
+    background-color: blueviolet;
+}
+.treepal{
+    border-radius: 300px 300px 0 0 ;
+    margin: 5px;
+    padding: 6px;
+}
+main{
+    align-items: center;
+    width: 1920px;
+height: 4867px;
+}
+.our-flower{
+    text-align: center;
+}
