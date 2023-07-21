@@ -80,3 +80,25 @@ height: 4867px;
 .our-flower{
     text-align: center;
 }
+.flower-list-2{
+    background-color: skyblue;
+    display: flex;
+    height: 600px;
+    width: 1600px;
+    align-items: center;
+
+}
+.description{
+    margin: 0 200px  0 200px ;
+}
+nav{
+    display: flex;
+    max-width: 500px;
+    margin: 50px 100px 100px 100px;
+}
+.nav{
+    margin: 5px;
+}
+.ins-title{
+    text-align: center;
+}
